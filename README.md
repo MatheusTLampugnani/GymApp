@@ -1,4 +1,4 @@
-# shoppinglist
+# GymApp
 
 A new Flutter project.
 
